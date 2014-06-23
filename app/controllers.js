@@ -6,6 +6,6 @@ var appControllers = angular.module('appControllers', []);
 
 appControllers.controller('homeController', ['$scope',
     function($scope) {
-        $scope.text = "hai i am here";
+        $scope.text = "Content 1";
     }]
 );
